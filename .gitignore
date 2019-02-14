@@ -1,0 +1,16 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log*
+out/
+dist/
+target/
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
